@@ -1,5 +1,5 @@
 # InvSee++
-
+0
 A bukkit plugin for manipulating player inventories.
 
 ![Logo](https://github.com/Jannyboy11/InvSee-plus-plus/blob/master/img/invsee6.png?raw=true)
